@@ -4,10 +4,10 @@
 ### Hi there 👋
 I am recent software development graduate working hard.
 - 🔭 I’m currently working with .Net core Framework.
-- ⚡ ... and Fun : Java
-- ⚡ ... and Fun : Angular
-- ⚡ ... abd Fun : Flutter
-- ⚡ ... and Fun : Ionic
+- ⚡ ... and having fun : Java
+- ⚡ ... and having fun : Angular
+- ⚡ ... and having fun : Flutter
+- ⚡ ... and having fun : Ionic
 - ⚡ ... and etc 😄
 
 ![YOUR github stats](https://github-readme-stats.vercel.app/api?username=digalves)
